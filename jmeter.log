@@ -1,0 +1,27 @@
+2026-11-21 14:55:33,555 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2026-11-21 14:55:33,578 INFO o.a.j.JMeter: Loading user properties from: /home/vscode/jmeter/bin/user.properties
+2026-11-21 14:55:33,579 INFO o.a.j.JMeter: Loading system properties from: /home/vscode/jmeter/bin/system.properties
+2026-11-21 14:55:33,585 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2026-11-21 14:55:33,585 INFO o.a.j.JMeter: Version 5.6.3
+2026-11-21 14:55:33,585 INFO o.a.j.JMeter: java.version=17.0.21.1
+2026-11-21 14:55:33,586 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2026-11-21 14:55:33,586 INFO o.a.j.JMeter: os.name=Linux
+2026-11-21 14:55:33,586 INFO o.a.j.JMeter: os.arch=amd64
+2026-11-21 14:55:33,586 INFO o.a.j.JMeter: os.version=6.8.0-1070-azure
+2026-11-21 14:55:33,586 INFO o.a.j.JMeter: file.encoding=UTF-8
+2026-11-21 14:55:33,586 INFO o.a.j.JMeter: java.awt.headless=null
+2026-11-21 14:55:33,586 INFO o.a.j.JMeter: Max memory     =1073741824
+2026-11-21 14:55:33,587 INFO o.a.j.JMeter: Available Processors =4
+2026-11-21 14:55:33,597 INFO o.a.j.JMeter: Default Locale=English (EN)
+2026-11-21 14:55:33,597 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2026-11-21 14:55:33,598 INFO o.a.j.JMeter: JMeterHome=/home/vscode/jmeter
+2026-11-21 14:55:33,598 INFO o.a.j.JMeter: user.dir  =/workspaces/jmeter-lab
+2026-11-21 14:55:33,598 INFO o.a.j.JMeter: PWD       =/workspaces/jmeter-lab
+2026-11-21 14:55:33,598 INFO o.a.j.JMeter: IP: 127.0.0.1 Name: codespaces-5e9f64 FullName: localhost
+2026-11-21 14:55:33,610 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2026-11-21 14:55:33,896 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2026-11-21 15:02:02,214 INFO o.a.j.s.FileServer: Default base='/workspaces/jmeter-lab'
+2026-11-21 15:02:02,215 INFO o.a.j.s.FileServer: Set new base='/workspaces/jmeter-lab/plans'
+2026-11-21 15:02:02,413 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2026-11-21 15:02:02,420 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2026-11-21 15:02:02,421 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
